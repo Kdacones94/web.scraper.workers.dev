@@ -1,5 +1,7 @@
 # Web Scraper
 
+[![Deploy](https://github.com/Kdacones94/web.scraper.workers.dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/Kdacones94/web.scraper.workers.dev/actions/workflows/deploy.yml)
+
 Web Scraper makes it effortless to scrape websites. You provide a URL and CSS selector and it will return you JSON containing the text contents of the matching elements. You can also scrape HTML attribute values by optionally specifying an attribute name.
 
 [Website →](https://web.scraper.workers.dev)
